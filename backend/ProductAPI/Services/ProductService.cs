@@ -1,0 +1,1 @@
+// ProductService.cs\nusing System;\nusing System.Collections.Generic;\nusing System.Linq;\nusing System.Threading.Tasks;\n\nnamespace ProductAPI.Services\n{\n    public class ProductService\n    {\n        // This is where you would define methods related to product management\n    }\n}
