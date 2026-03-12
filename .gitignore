@@ -1,0 +1,17 @@
+# C#
+*.dll
+*.exe
+*.pdb
+*.obj
+*.user
+*.suo
+*.sln
+*.csproj
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Visual Studio
+.vs/
